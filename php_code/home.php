@@ -9,9 +9,9 @@
 			Member-related functions
 			<ol>
 				<li><a href='addmember.php'>Add a new member</a></li>
-				<li><a href='wip.php'>Deactivate member</a></li>
-				<li><a href='wip.php'>Search for member</a></li>
-				<li><a href='wip.php'>Edit existing member</a></li>
+				<li><a href='deactivatemember.php'>Deactivate member</a></li>
+				<li><a href='searchmember.php'>Search for member</a></li>
+				<li><a href='editmember.php'>Edit existing member</a></li>
 			</ol>
 		</li>
 		<br/>
