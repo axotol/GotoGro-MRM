@@ -30,9 +30,9 @@
 		<li>
 			Sales Report Generation
 			<ol>
-				<li><a href='wip.php'>Produce a daily sales report</a></li>
-				<li><a href='wip.php'>Produce a weekly sales report</a></li>
-				<li><a href='wip.php'>Produce a monthly sales report</a></li>
+				<li><a href='viewreport_daily.php'>Produce a daily sales report</a></li>
+				<li><a href='viewreport_weekly.php'>Produce a weekly sales report</a></li>
+				<li><a href='viewreport_monthly.php'>Produce a monthly sales report</a></li>
 			</ol>
 		</li>
 	</ol>
