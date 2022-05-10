@@ -25,7 +25,7 @@
 			</ol>
 		</li>
 		<br/>
-		<li><a href='wip.php'>View Purchase Logs and Product Levels</a></li>
+		<li><a href='viewlogsandlevels.php'>View Purchase Logs and Product Levels</a></li>
 		<br/>
 		<li>
 			Sales Report Generation
