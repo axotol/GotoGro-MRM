@@ -20,8 +20,8 @@
 			<ol>
 				<li><a href='addsalesrecord.php'>Add a sales record</a></li>
 				<li><a href='wip.php'>Remove sales record</a></li>
-				<li><a href='wip.php'>Search for sales record</a></li>
-				<li><a href='wip.php'>Update sales record</a></li>
+				<li><a href='searchsalesrecord.php'>Search for sales record</a></li>
+				<li><a href='updatesalesrecord.php'>Update sales record</a></li>
 			</ol>
 		</li>
 		<br/>
