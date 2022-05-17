@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include "phpstuff/header.inc.php";?>
+    <?php include "../phpstuff/header.inc.php";?>
     <title>Team Grotle Website - Members</title>
 </head>
 <body class="banner">
-<?php    include "phpstuff/menu.inc.php";?>
+<?php    include "../phpstuff/menu.inc.php";?>
     <main class="nothome">
         <div class="text">
             <section class="content">
